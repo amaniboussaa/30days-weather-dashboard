@@ -22,7 +22,7 @@ This Weather Dashboard application fetches real-time weather data from the OpenW
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/GilbertDaniel/-30days-weather-dashboard.git
+   git clone https://github.com/amaniboussaa/30days-weather-dashboard.git
    cd -30days-weather-dashboard
    ```
 
